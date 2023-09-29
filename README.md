@@ -1,5 +1,6 @@
 # burn-skin-cell-type-timeline
 Provided by Xueling Li, email: xlli@cmpt.ac.cn
+
 Codes and CIBERSORTx group-mode deconvolution results (GSE8056_group) on GSE8056 dataset for burn-skin-cell-type-timeline reprository. 
 Codes:
 dataAugm.R is for data augmentation when the number of bulk samples is smaller than the number of cell types;
