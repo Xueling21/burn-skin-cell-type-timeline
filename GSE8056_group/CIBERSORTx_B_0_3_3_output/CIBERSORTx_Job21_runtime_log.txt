@@ -1,0 +1,29 @@
+>Running CIBERSORTx GEP imputation (representative profiles only)...
+>[Options] mixture: files/zyna@mail.ustc.edu.cn/D_0_3_5.txt
+>[Options] sigmatrix: files/zyna@mail.ustc.edu.cn/CIBERSORTx_Job64_GSE169147_Neu_inferred_phenoclasses.CIBERSORTx_Job64_GSE169147_Neu_inferred_refsample.bm.K999.txt
+>[Options] classes: files/zyna@mail.ustc.edu.cn/merge_class.txt
+>[Options] threads: 7
+>[Options] nsampling: 30
+>[Options] redo: TRUE [to rerun CIBERSORT, set 'redocibersort' to TRUE]
+>[Options] QN: FALSE
+>[Options] outdir: files/zyna@mail.ustc.edu.cn/results/
+>[Options] label: Job21
+>Estimating cell proportions...
+done.
+>Loaded 69 mixture samples, 21654 genes, and 7 cell subsets...
+>Imputing representative cell type GEPs...done.
+>Writing output to disk...done.
+>Running time (sec): 190
+  adding: CIBERSORTxGEP_Job21_Fractions.txt (deflated 54%)
+  adding: CIBERSORTxGEP_Job21_GEPs.txt (deflated 51%)
+  adding: CIBERSORTxGEP_Job21_GEPs_CVs.txt (deflated 51%)
+  adding: CIBERSORTxGEP_Job21_GEPs_Filtered.txt (deflated 58%)
+  adding: CIBERSORTxGEP_Job21_GEPs_Pvals.txt (deflated 54%)
+  adding: CIBERSORTxGEP_Job21_GEPs_Qvals.txt (deflated 62%)
+  adding: CIBERSORTxGEP_Job21_GEPs_StdErrs.txt (deflated 50%)
+  adding: CIBERSORTxGEP_Job21_GEPs_ThresholdPlots.jpg (deflated 2%)
+  adding: CIBERSORTxGEP_Job21_GEPs_ThresholdPlots.pdf (deflated 26%)
+  adding: CIBERSORTxGEP_Job21_SM_GEPs_Filtered.txt (deflated 58%)
+  adding: CIBERSORTxGEP_Job21_Weights.txt (deflated 57%)
+  adding: CIBERSORTx_Job21_error_log.txt (deflated 4%)
+  adding: CIBERSORTx_Job21_runtime_log.txt
